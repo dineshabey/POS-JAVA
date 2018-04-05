@@ -702,8 +702,10 @@ public class add_new_grn extends javax.swing.JInternalFrame {
 
     //calculate item cost price *****************************************************
     private double cal_grn_item_tot_cost() {
+        
         double grn_item_tot_cost = cal_ini_grn();
         double cost_price = Double.parseDouble(cost.getText());
+        //######################################################################
         double val_grn_item_tot_cost = (grn_item_tot_cost * cost_price);
         return val_grn_item_tot_cost;
 
@@ -719,11 +721,13 @@ public class add_new_grn extends javax.swing.JInternalFrame {
         String dates = date.getText();
         String new_grn_no = grn_id.getText();
 
+        //######################################################################
         double val_grn_ini = cal_ini_grn();
         double val_item_costs = cal_grn_item_cost();
         double val_item_sell = cal_grn_item_sell();
         double val_item_tot_cost = cal_grn_item_tot_cost();
-
+        //######################################################################
+        
         controls.ListItem cus = (controls.ListItem) jComboBox2.getSelectedItem();
         int item_id = cus.getId();
 //        int manuval_grn = Integer.parseInt(new_grn_no);

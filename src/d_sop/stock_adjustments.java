@@ -22,7 +22,9 @@ public class stock_adjustments extends javax.swing.JFrame {
 
     //SET ID'S *****************************************************************
     private static int edit_id = -1;
-
+    //Tabale Search ************************************************************
+    
+    
     public stock_adjustments() {
         initComponents();
         stock_adjustment_tabale();

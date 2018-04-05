@@ -3,13 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/sub_cat.java</file>
-            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/add_new_grn.java</file>
-            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/stock_adjustments.java</file>
-            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/current_stock.java</file>
-            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/item_reg.java</file>
+            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/cash_payment.java</file>
+            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/grn_more_deatails.java</file>
+            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/customer_registration.java</file>
+            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/main_window_cashier.java</file>
             <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/home.java</file>
-            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/item_movement.java</file>
+            <file>file:/C:/Users/mdcc_dinesh/Documents/NetBeansProjects/java/dinesh_POS/src/d_sop/grn_history.java</file>
         </group>
     </open-files>
 </project-private>
